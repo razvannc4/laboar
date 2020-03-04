@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
+
 int main()
 
 {
@@ -22,7 +22,7 @@ int main()
 	return 0;
 
 }
-*/
+
 int main()
 {
 	int i, st = 0, v[100], n, x,dr,mij=0;
